@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1486" height="705" viewBox="0 0 1486 705">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0b0b0b;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #40403f;
+      }
+
+      .cls-3 {
+        font-size: 464px;
+        fill: #fff;
+        text-anchor: end;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: cream-DEMO, cream;
+      }
+
+      .cls-4 {
+        font-size: 246px;
+        fill: #181818;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,0H705V705H0V0Z"/>
+  <path class="cls-2" d="M95,95H612V616H95V95Z"/>
+  <text id="P" class="cls-3" x="415.26" y="515.227"><tspan x="415.26">P</tspan></text>
+  <text id="o" class="cls-3" x="565.26" y="518.226"><tspan x="565.26">o</tspan></text>
+  <text id="Print_Online" data-name="Print Online" class="cls-4" x="1096.427" y="348.94"><tspan x="1096.427">Print</tspan><tspan x="1096.427" dy="295.2">Online</tspan></text>
+</svg>
